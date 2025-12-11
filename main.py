@@ -1,0 +1,1 @@
+print("CodeSensei project start!")
